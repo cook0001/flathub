@@ -9,4 +9,4 @@ Type=Application
 Categories=Game;RolePlaying;
 MimeType=x-scheme-handler/jagex;x-scheme-handler/runescape;
 StartupWMClass=linux-jagex-launcher
-Keywords=runescape;osrs;jagex;runelite;hdos;dragonwilds;game;
+Keywords=runescape;runescape3;rs3;osrs;jagex;runelite;hdos;dragonwilds;steamdeck;steamos;electron;game;
